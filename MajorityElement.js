@@ -1,5 +1,6 @@
 /**
  * Solution to LeetCode problem 169. Majority Element
+ * Runtime: 76 ms
  * @param {number[]} nums
  * @return {number}
  */
